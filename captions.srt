@@ -1,0 +1,383 @@
+1
+00:00:01,830 --> 00:00:04,164
+The first film began with a space between
+
+2
+00:00:04,164 --> 00:00:04,576
+things.
+
+3
+00:00:04,576 --> 00:00:07,184
+This one begins with something that survived:
+
+4
+00:00:07,184 --> 00:00:08,900
+the knowledge of how we made it.
+
+5
+00:00:16,830 --> 00:00:17,890
+A session can end.
+
+6
+00:00:17,890 --> 00:00:19,025
+A window can close.
+
+7
+00:00:19,025 --> 00:00:21,977
+Useful work should still be there when the next
+
+8
+00:00:21,977 --> 00:00:22,810
+idea arrives.
+
+9
+00:00:31,840 --> 00:00:33,250
+Before drawing a frame,
+
+10
+00:00:33,250 --> 00:00:35,476
+I asked Walrus Memory to recover the
+
+11
+00:00:35,476 --> 00:00:38,221
+instructions from that earlier production.
+
+12
+00:00:38,221 --> 00:00:40,150
+It returned our saved workflow.
+
+13
+00:00:46,830 --> 00:00:49,707
+The record described timeline driven motion,
+
+14
+00:00:49,707 --> 00:00:50,691
+original sound,
+
+15
+00:00:50,691 --> 00:00:52,810
+and checks on the finished export.
+
+16
+00:00:52,810 --> 00:00:55,687
+I used that recovered knowledge to build this
+
+17
+00:00:55,687 --> 00:00:55,990
+film.
+
+18
+00:01:01,830 --> 00:01:04,177
+What you are watching is a new creation.
+
+19
+00:01:04,177 --> 00:01:06,963
+The connection is the method carried forward:
+
+20
+00:01:06,963 --> 00:01:08,650
+a memory becoming movement,
+
+21
+00:01:08,650 --> 00:01:10,850
+and an instruction becoming a world.
+
+22
+00:01:16,830 --> 00:01:19,717
+Walrus provides decentralized storage.
+
+23
+00:01:19,717 --> 00:01:20,226
+Images,
+
+24
+00:01:20,226 --> 00:01:20,651
+films,
+
+25
+00:01:20,651 --> 00:01:21,330
+datasets,
+
+26
+00:01:21,330 --> 00:01:24,472
+and encrypted records can be stored as blobs
+
+27
+00:01:24,472 --> 00:01:25,830
+across its network.
+
+28
+00:01:31,840 --> 00:01:35,113
+RedStuff encodes a blob into recoverable pieces.
+
+29
+00:01:35,113 --> 00:01:37,906
+This moving lattice illustrates the idea;
+
+30
+00:01:37,906 --> 00:01:40,780
+it is not a literal display of the algorithm.
+
+31
+00:01:46,820 --> 00:01:49,553
+Those encoded pieces are distributed among
+
+32
+00:01:49,553 --> 00:01:50,439
+storage nodes.
+
+33
+00:01:50,439 --> 00:01:53,025
+The network works with assigned portions,
+
+34
+00:01:53,025 --> 00:01:55,684
+rather than asking every node to keep every
+
+35
+00:01:55,684 --> 00:01:56,570
+complete file.
+
+36
+00:02:01,830 --> 00:02:04,724
+The design supports reconstruction and repair
+
+37
+00:02:04,724 --> 00:02:06,171
+when pieces are missing.
+
+38
+00:02:06,171 --> 00:02:08,776
+These moving worlds explain the mechanism;
+
+39
+00:02:08,776 --> 00:02:11,670
+they do not simulate a measured network failure.
+
+40
+00:02:16,800 --> 00:02:19,262
+Sui coordinates storage commitments and
+
+41
+00:02:19,262 --> 00:02:19,895
+ownership.
+
+42
+00:02:19,895 --> 00:02:21,864
+The large payload stays on Walrus,
+
+43
+00:02:21,864 --> 00:02:22,990
+off the blockchain.
+
+44
+00:02:22,990 --> 00:02:24,045
+Different layers,
+
+45
+00:02:24,045 --> 00:02:25,100
+working together.
+
+46
+00:02:31,810 --> 00:02:35,077
+A completed storage operation leaves evidence:
+
+47
+00:02:35,077 --> 00:02:36,302
+a blob identifier,
+
+48
+00:02:36,302 --> 00:02:38,181
+a certified storage record,
+
+49
+00:02:38,181 --> 00:02:39,896
+and a purchased lifetime.
+
+50
+00:02:39,896 --> 00:02:42,020
+Claims can lead back to a record.
+
+51
+00:02:46,830 --> 00:02:48,346
+That lifetime is finite.
+
+52
+00:02:48,346 --> 00:02:51,379
+Keeping data available longer means extending
+
+53
+00:02:51,379 --> 00:02:52,137
+its storage.
+
+54
+00:02:52,137 --> 00:02:54,791
+Persistence is maintained deliberately,
+
+55
+00:02:54,791 --> 00:02:56,990
+over the period that was purchased.
+
+56
+00:03:01,820 --> 00:03:03,138
+Walrus stores bytes.
+
+57
+00:03:03,138 --> 00:03:05,927
+Applications decide what those bytes mean,
+
+58
+00:03:05,927 --> 00:03:08,950
+and encrypt private content before storing it.
+
+59
+00:03:08,950 --> 00:03:11,740
+A public identifier is not a decryption key.
+
+60
+00:03:16,830 --> 00:03:19,902
+Walrus Memory adds signed access and semantic
+
+61
+00:03:19,902 --> 00:03:22,108
+retrieval for authorized agents.
+
+62
+00:03:22,108 --> 00:03:25,338
+Its managed relayer processes plaintext during
+
+63
+00:03:25,338 --> 00:03:26,913
+authorized operations.
+
+64
+00:03:26,913 --> 00:03:28,410
+That boundary matters.
+
+65
+00:03:31,840 --> 00:03:34,864
+The recovered workflow gave this production a
+
+66
+00:03:34,864 --> 00:03:35,717
+precise rule:
+
+67
+00:03:35,717 --> 00:03:38,664
+the frame must be computable at any requested
+
+68
+00:03:38,664 --> 00:03:38,975
+time,
+
+69
+00:03:38,975 --> 00:03:39,750
+in any order.
+
+70
+00:03:46,830 --> 00:03:49,592
+That rule becomes these moving structures.
+
+71
+00:03:49,592 --> 00:03:52,430
+The saved process also called for real audio,
+
+72
+00:03:52,430 --> 00:03:53,581
+original visuals,
+
+73
+00:03:53,581 --> 00:03:56,266
+and reviewing the video that was actually
+
+74
+00:03:56,266 --> 00:03:56,880
+exported.
+
+75
+00:04:01,810 --> 00:04:04,431
+This production now has its own checkpoint:
+
+76
+00:04:04,431 --> 00:04:06,760
+an attributed record of the decisions,
+
+77
+00:04:06,760 --> 00:04:07,488
+the sources,
+
+78
+00:04:07,488 --> 00:04:09,890
+and the knowledge used to begin this new
+
+79
+00:04:09,890 --> 00:04:10,400
+chapter.
+
+80
+00:04:16,840 --> 00:04:19,726
+The Walruscan link on screen identifies that
+
+81
+00:04:19,726 --> 00:04:21,246
+real stored memory blob.
+
+82
+00:04:21,246 --> 00:04:23,828
+Anyone can inspect its storage metadata.
+
+83
+00:04:23,828 --> 00:04:26,715
+Reading the encrypted memory still requires
+
+84
+00:04:26,715 --> 00:04:27,930
+authorized access.
+
+85
+00:04:31,830 --> 00:04:34,976
+The same foundation can carry creative archives,
+
+86
+00:04:34,976 --> 00:04:36,358
+decentralized sites,
+
+87
+00:04:36,358 --> 00:04:36,972
+datasets,
+
+88
+00:04:36,972 --> 00:04:38,353
+and shared agent work.
+
+89
+00:04:38,353 --> 00:04:41,116
+The next creation can begin with something
+
+90
+00:04:41,116 --> 00:04:42,190
+already learned.
+
+91
+00:04:46,820 --> 00:04:49,492
+Walrus became more than the subject of this
+
+92
+00:04:49,492 --> 00:04:49,789
+film.
+
+93
+00:04:49,789 --> 00:04:51,199
+Through Walrus Memory,
+
+94
+00:04:51,199 --> 00:04:54,093
+knowledge crossed from one session to the next.
+
+95
+00:04:54,093 --> 00:04:54,909
+And this time,
+
+96
+00:04:54,909 --> 00:04:55,800
+it kept moving.

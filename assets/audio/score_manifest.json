@@ -1,0 +1,347 @@
+{
+  "title": "THE MEMORY BETWEEN",
+  "duration_seconds": 300,
+  "sample_rate": 48000,
+  "channels": 2,
+  "bit_depth": 24,
+  "score": {
+    "peak_dbfs": -8.734,
+    "rms_dbfs": -23.811,
+    "frames": 14400000,
+    "sample_rate": 48000,
+    "channels": 2,
+    "format": "PCM_24"
+  },
+  "sfx": {
+    "peak_dbfs": -10.519,
+    "rms_dbfs": -36.996,
+    "frames": 14400000,
+    "sample_rate": 48000,
+    "channels": 2,
+    "format": "PCM_24"
+  },
+  "score_style": "original synthetic orchestral score with evolving pads, bowed tones, bass pulse, arpeggio and recurring memory motif",
+  "sfx_style": "original procedural filtered swells, low pulses and soft chimes; no sampled media",
+  "arrangement": [
+    {
+      "start_seconds": 0,
+      "end_seconds": 15,
+      "chord": "D minor add nine",
+      "intensity": 0.3
+    },
+    {
+      "start_seconds": 15,
+      "end_seconds": 30,
+      "chord": "B flat major seven",
+      "intensity": 0.34
+    },
+    {
+      "start_seconds": 30,
+      "end_seconds": 45,
+      "chord": "F major add six",
+      "intensity": 0.4
+    },
+    {
+      "start_seconds": 45,
+      "end_seconds": 60,
+      "chord": "C add nine",
+      "intensity": 0.49
+    },
+    {
+      "start_seconds": 60,
+      "end_seconds": 75,
+      "chord": "G minor nine",
+      "intensity": 0.58
+    },
+    {
+      "start_seconds": 75,
+      "end_seconds": 90,
+      "chord": "D minor over A",
+      "intensity": 0.66
+    },
+    {
+      "start_seconds": 90,
+      "end_seconds": 105,
+      "chord": "B flat major nine",
+      "intensity": 0.72
+    },
+    {
+      "start_seconds": 105,
+      "end_seconds": 120,
+      "chord": "F major add six",
+      "intensity": 0.68
+    },
+    {
+      "start_seconds": 120,
+      "end_seconds": 135,
+      "chord": "C major nine",
+      "intensity": 0.64
+    },
+    {
+      "start_seconds": 135,
+      "end_seconds": 150,
+      "chord": "G minor nine",
+      "intensity": 0.66
+    },
+    {
+      "start_seconds": 150,
+      "end_seconds": 165,
+      "chord": "D minor seven",
+      "intensity": 0.6
+    },
+    {
+      "start_seconds": 165,
+      "end_seconds": 180,
+      "chord": "B flat major seven",
+      "intensity": 0.53
+    },
+    {
+      "start_seconds": 180,
+      "end_seconds": 195,
+      "chord": "C add nine",
+      "intensity": 0.62
+    },
+    {
+      "start_seconds": 195,
+      "end_seconds": 210,
+      "chord": "A minor nine",
+      "intensity": 0.7
+    },
+    {
+      "start_seconds": 210,
+      "end_seconds": 225,
+      "chord": "F major nine",
+      "intensity": 0.78
+    },
+    {
+      "start_seconds": 225,
+      "end_seconds": 240,
+      "chord": "G minor nine",
+      "intensity": 0.58
+    },
+    {
+      "start_seconds": 240,
+      "end_seconds": 255,
+      "chord": "B flat major seven",
+      "intensity": 0.64
+    },
+    {
+      "start_seconds": 255,
+      "end_seconds": 270,
+      "chord": "C major nine",
+      "intensity": 0.78
+    },
+    {
+      "start_seconds": 270,
+      "end_seconds": 285,
+      "chord": "D minor nine",
+      "intensity": 0.9
+    },
+    {
+      "start_seconds": 285,
+      "end_seconds": 300,
+      "chord": "D minor add nine resolve",
+      "intensity": 0.38
+    }
+  ],
+  "sfx_events": [
+    {
+      "start_seconds": 0.12,
+      "duration_seconds": 1.82,
+      "type": "soft filtered data swell",
+      "pan": -0.48
+    },
+    {
+      "start_seconds": 0.08,
+      "duration_seconds": 0.62,
+      "type": "restrained low pulse and transient",
+      "pan": 0.48
+    },
+    {
+      "start_seconds": 43.35,
+      "duration_seconds": 1.82,
+      "type": "soft filtered data swell",
+      "pan": 0.48
+    },
+    {
+      "start_seconds": 45.08,
+      "duration_seconds": 0.62,
+      "type": "restrained low pulse and transient",
+      "pan": -0.48
+    },
+    {
+      "start_seconds": 58.35,
+      "duration_seconds": 1.82,
+      "type": "soft filtered data swell",
+      "pan": -0.48
+    },
+    {
+      "start_seconds": 67.2,
+      "duration_seconds": 1.5,
+      "type": "soft data chime",
+      "pan": 0.264
+    },
+    {
+      "start_seconds": 73.35,
+      "duration_seconds": 1.82,
+      "type": "soft filtered data swell",
+      "pan": 0.48
+    },
+    {
+      "start_seconds": 75.08,
+      "duration_seconds": 0.62,
+      "type": "restrained low pulse and transient",
+      "pan": -0.48
+    },
+    {
+      "start_seconds": 88.35,
+      "duration_seconds": 1.82,
+      "type": "soft filtered data swell",
+      "pan": -0.48
+    },
+    {
+      "start_seconds": 97.2,
+      "duration_seconds": 1.5,
+      "type": "soft data chime",
+      "pan": 0.264
+    },
+    {
+      "start_seconds": 118.35,
+      "duration_seconds": 1.82,
+      "type": "soft filtered data swell",
+      "pan": -0.48
+    },
+    {
+      "start_seconds": 120.08,
+      "duration_seconds": 0.62,
+      "type": "restrained low pulse and transient",
+      "pan": 0.48
+    },
+    {
+      "start_seconds": 133.35,
+      "duration_seconds": 1.82,
+      "type": "soft filtered data swell",
+      "pan": 0.48
+    },
+    {
+      "start_seconds": 135.08,
+      "duration_seconds": 0.62,
+      "type": "restrained low pulse and transient",
+      "pan": -0.48
+    },
+    {
+      "start_seconds": 163.35,
+      "duration_seconds": 1.82,
+      "type": "soft filtered data swell",
+      "pan": 0.48
+    },
+    {
+      "start_seconds": 178.35,
+      "duration_seconds": 1.82,
+      "type": "soft filtered data swell",
+      "pan": -0.48
+    },
+    {
+      "start_seconds": 180.08,
+      "duration_seconds": 0.62,
+      "type": "restrained low pulse and transient",
+      "pan": 0.48
+    },
+    {
+      "start_seconds": 187.2,
+      "duration_seconds": 1.5,
+      "type": "soft data chime",
+      "pan": 0.264
+    },
+    {
+      "start_seconds": 193.35,
+      "duration_seconds": 1.82,
+      "type": "soft filtered data swell",
+      "pan": 0.48
+    },
+    {
+      "start_seconds": 195.08,
+      "duration_seconds": 0.62,
+      "type": "restrained low pulse and transient",
+      "pan": -0.48
+    },
+    {
+      "start_seconds": 208.35,
+      "duration_seconds": 1.82,
+      "type": "soft filtered data swell",
+      "pan": -0.48
+    },
+    {
+      "start_seconds": 217.2,
+      "duration_seconds": 1.5,
+      "type": "soft data chime",
+      "pan": 0.264
+    },
+    {
+      "start_seconds": 223.35,
+      "duration_seconds": 1.82,
+      "type": "soft filtered data swell",
+      "pan": 0.48
+    },
+    {
+      "start_seconds": 225.08,
+      "duration_seconds": 0.62,
+      "type": "restrained low pulse and transient",
+      "pan": -0.48
+    },
+    {
+      "start_seconds": 238.35,
+      "duration_seconds": 1.82,
+      "type": "soft filtered data swell",
+      "pan": -0.48
+    },
+    {
+      "start_seconds": 253.35,
+      "duration_seconds": 1.82,
+      "type": "soft filtered data swell",
+      "pan": 0.48
+    },
+    {
+      "start_seconds": 255.08,
+      "duration_seconds": 0.62,
+      "type": "restrained low pulse and transient",
+      "pan": -0.48
+    },
+    {
+      "start_seconds": 262.2,
+      "duration_seconds": 1.5,
+      "type": "soft data chime",
+      "pan": -0.264
+    },
+    {
+      "start_seconds": 268.35,
+      "duration_seconds": 1.82,
+      "type": "soft filtered data swell",
+      "pan": -0.48
+    },
+    {
+      "start_seconds": 270.08,
+      "duration_seconds": 0.62,
+      "type": "restrained low pulse and transient",
+      "pan": 0.48
+    },
+    {
+      "start_seconds": 283.35,
+      "duration_seconds": 1.82,
+      "type": "soft filtered data swell",
+      "pan": 0.48
+    },
+    {
+      "start_seconds": 285.08,
+      "duration_seconds": 0.62,
+      "type": "restrained low pulse and transient",
+      "pan": -0.48
+    }
+  ],
+  "score_sha256": "0ba5f7b9a7ae6b28f2e0a1f439704faeee7bf9a1b3d5067e619b26f71fce5e2c",
+  "sfx_sha256": "87575602c266153757c49b080f7d744b9144706510815a3e3ac03282f3ff0d0f",
+  "music_bands_sha256": "64f8a8ab9a7a417a5b79fe0101ec633ca0f226574521c738239de800ae86736f",
+  "motion_envelopes_sha256": "39f8bb7062be69219047ad4634d672c116d04685ceffe3f6f269646f8c38d44e",
+  "script_sha256": "f84a3cf58181fdd01d022e6e791f4ab55e3a21e2cdfc7e847738c964331e13ee",
+  "elapsed_seconds": 17.812
+}

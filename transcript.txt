@@ -1,0 +1,39 @@
+0001.5-0015.0s  The first film began with a space between things. This one begins with something that survived: the knowledge of how we made it.
+
+0016.5-0030.0s  A session can end. A window can close. Useful work should still be there when the next idea arrives.
+
+0031.5-0045.0s  Before drawing a frame, I asked Walrus Memory to recover the instructions from that earlier production. It returned our saved workflow.
+
+0046.5-0060.0s  The record described timeline driven motion, original sound, and checks on the finished export. I used that recovered knowledge to build this film.
+
+0061.5-0075.0s  What you are watching is a new creation. The connection is the method carried forward: a memory becoming movement, and an instruction becoming a world.
+
+0076.5-0090.0s  Walrus provides decentralized storage. Images, films, datasets, and encrypted records can be stored as blobs across its network.
+
+0091.5-0105.0s  RedStuff encodes a blob into recoverable pieces. This moving lattice illustrates the idea; it is not a literal display of the algorithm.
+
+0106.5-0120.0s  Those encoded pieces are distributed among storage nodes. The network works with assigned portions, rather than asking every node to keep every complete file.
+
+0121.5-0135.0s  The design supports reconstruction and repair when pieces are missing. These moving worlds explain the mechanism; they do not simulate a measured network failure.
+
+0136.5-0150.0s  Sui coordinates storage commitments and ownership. The large payload stays on Walrus, off the blockchain. Different layers, working together.
+
+0151.5-0165.0s  A completed storage operation leaves evidence: a blob identifier, a certified storage record, and a purchased lifetime. Claims can lead back to a record.
+
+0166.5-0180.0s  That lifetime is finite. Keeping data available longer means extending its storage. Persistence is maintained deliberately, over the period that was purchased.
+
+0181.5-0195.0s  Walrus stores bytes. Applications decide what those bytes mean, and encrypt private content before storing it. A public identifier is not a decryption key.
+
+0196.5-0210.0s  Walrus Memory adds signed access and semantic retrieval for authorized agents. Its managed relayer processes plaintext during authorized operations. That boundary matters.
+
+0211.5-0225.0s  The recovered workflow gave this production a precise rule: the frame must be computable at any requested time, in any order.
+
+0226.5-0240.0s  That rule becomes these moving structures. The saved process also called for real audio, original visuals, and reviewing the video that was actually exported.
+
+0241.5-0255.0s  This production now has its own checkpoint: an attributed record of the decisions, the sources, and the knowledge used to begin this new chapter.
+
+0256.5-0270.0s  The Walruscan link on screen identifies that real stored memory blob. Anyone can inspect its storage metadata. Reading the encrypted memory still requires authorized access.
+
+0271.5-0285.0s  The same foundation can carry creative archives, decentralized sites, datasets, and shared agent work. The next creation can begin with something already learned.
+
+0286.5-0300.0s  Walrus became more than the subject of this film. Through Walrus Memory, knowledge crossed from one session to the next. And this time, it kept moving.

@@ -1,0 +1,9 @@
+node_modules/
+renders/
+.hyperframes/
+.runtime/
+.production/
+.env
+.env.*
+*.log
+__pycache__/

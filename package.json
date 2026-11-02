@@ -1,0 +1,17 @@
+{
+  "name": "the-memory-between",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "preview": "node scripts/run.mjs preview --no-open",
+    "check": "node scripts/run.mjs check --json",
+    "render": "node scripts/run.mjs render --strict --no-best-effort --output renders/film.mp4"
+  },
+  "dependencies": {
+    "hyperframes": "0.8.193",
+    "three": "0.186.1",
+    "gsap": "3.15.0",
+    "playwright": "1.64.1"
+  }
+}
